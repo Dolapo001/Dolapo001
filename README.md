@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adedolapo</h1>
 <h3 align="center">A passionate Backend developer driven by a love for creating efficient backend architectures and streamlining processes through automation.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dolapo001&label=Profile%20views&color=0e75b6&style=flat" alt="dolapo001" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dolapo001" alt="dolapo001" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/dedolapo001" target="blank"><img src="https://img.shields.io/twitter/follow/dedolapo001?logo=twitter&style=for-the-badge" alt="dedolapo001" /></a> </p>
 
 - 🔭 I’m currently working on [AdMatrimonia](https://github.com/Dolapo001/AdMatrimonia)
@@ -11,7 +15,7 @@
 
 - 📫 How to reach me **adedolapo.atiba@gmail.com**
 
-- ⚡ Fun fact ** I love reading books on backend engineering, and I enjoy watching movies and tech videos.**
+- ⚡ Fun fact **love reading books on backend engineering, and I enjoy watching movies and tech videos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
