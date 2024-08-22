@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adedolapo.atiba@gmail.com**
 
-- ⚡ Fun fact **love reading books on backend engineering, and I enjoy watching movies and tech videos.**
+- ⚡ Fun fact ** I love reading books on backend engineering, and I enjoy watching movies and tech videos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
