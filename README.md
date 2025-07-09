@@ -38,10 +38,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dolapo001&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dolapo001&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolapo001&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+  <img src="https://streak-stats.demolab.com/?user=dolapo001&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
