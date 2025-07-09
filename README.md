@@ -40,10 +40,11 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolapo001&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-  <img src="https://streak-stats.demolab.com/?user=dolapo001&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Dolapo001&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
+
 
 ---
 
