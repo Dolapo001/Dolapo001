@@ -7,7 +7,7 @@
 ## About Me
 
 - 🔭 I'm currently working on [AdMatrimonia](https://github.com/Dolapo001/AdMatrimonia)
-- 🌱 I'm currently learning **JavaScript, Node.js, and MongoDB**
+- 🌱 I'm currently learning **Flutter and Mobile development**
 - 💬 Ask me about **Backend Development, Django, and Python**
 - 📫 Reach me at **adedolapo.atiba@gmail.com**
 - ⚡ Fun fact: I love reading books on backend engineering, and I enjoy watching movies and tech videos
