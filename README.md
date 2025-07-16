@@ -36,14 +36,12 @@
 </p>
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolapo001&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dolapo001&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolapo001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dolapo001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=dolapo001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
 
 ---
 
