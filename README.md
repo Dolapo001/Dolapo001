@@ -1,4 +1,4 @@
-# Hi 👋, I'm Adedolapo
+# Hi 👋, I'm Adedolapo Atiba
 
 **A passionate Backend Developer driven by a love for creating efficient backend architectures and streamlining processes through automation.**
 
