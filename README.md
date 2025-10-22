@@ -5,8 +5,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dolapo001&label=Profile%20views&color=8b5cf6&style=for-the-badge)
 
 ## About Me
-
-- 🔭 I'm currently working on [AdMatrimonia](https://github.com/Dolapo001/AdMatrimonia)
 - 🌱 I'm currently learning **Flutter and Mobile development**
 - 💬 Ask me about **Backend Development, Django, and Python**
 - 📫 Reach me at **adedolapo.atiba@gmail.com**
